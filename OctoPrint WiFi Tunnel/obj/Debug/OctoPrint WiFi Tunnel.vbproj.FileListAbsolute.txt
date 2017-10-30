@@ -1,0 +1,22 @@
+c:\users\owner\documents\visual studio 2015\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\bin\Debug\OctoPrint WiFi Tunnel.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\bin\Debug\OctoPrint WiFi Tunnel.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\bin\Debug\OctoPrint WiFi Tunnel.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\bin\Debug\OctoPrint WiFi Tunnel.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint_WiFi_Tunnel.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint_WiFi_Tunnel.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint WiFi Tunnel.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint WiFi Tunnel.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint WiFi Tunnel.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint WiFi Tunnel.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint WiFi Tunnel.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\bckups\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\bin\Debug\OctoPrint WiFi Tunnel.exe.config
+C:\Users\Owner\Desktop\bckups\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\bin\Debug\OctoPrint WiFi Tunnel.exe
+C:\Users\Owner\Desktop\bckups\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\bin\Debug\OctoPrint WiFi Tunnel.pdb
+C:\Users\Owner\Desktop\bckups\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\bin\Debug\OctoPrint WiFi Tunnel.xml
+C:\Users\Owner\Desktop\bckups\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint_WiFi_Tunnel.Form1.resources
+C:\Users\Owner\Desktop\bckups\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint_WiFi_Tunnel.Resources.resources
+C:\Users\Owner\Desktop\bckups\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint WiFi Tunnel.vbproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\bckups\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint WiFi Tunnel.exe
+C:\Users\Owner\Desktop\bckups\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint WiFi Tunnel.xml
+C:\Users\Owner\Desktop\bckups\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint WiFi Tunnel.pdb
+C:\Users\Owner\Desktop\bckups\Projects\OctoPrint WiFi Tunnel\OctoPrint WiFi Tunnel\obj\Debug\OctoPrint WiFi Tunnel.vbprojResolveAssemblyReference.cache
